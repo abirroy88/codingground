@@ -1,3 +1,4 @@
+// Char array - static
 #include <stdio.h>
 #include <stdlib.h>
 
