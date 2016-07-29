@@ -1,6 +1,8 @@
 // Second Largest number from an array - Dynamic allocation
 #include <stdio.h>
 #include <stdlib.h>
+
+
 int calculate(int arr[], int len){
     int i, largest=0, secondLargest=0;
     for(i=0;i<len;i++){
