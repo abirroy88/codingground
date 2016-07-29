@@ -1,3 +1,4 @@
+// Second Largest number from an array - Dynamic allocation
 #include <stdio.h>
 #include <stdlib.h>
 int calculate(int arr[], int len){
