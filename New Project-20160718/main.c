@@ -1,3 +1,4 @@
+//Difference b/w the sums of -ve and +ve numbers in an array - Dynamic
 #include <stdio.h>
 #include <stdlib.h>
 
